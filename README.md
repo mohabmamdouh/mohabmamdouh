@@ -8,3 +8,4 @@ Welcome to my GitHub profile! I am a Full Stack Engineer with experience in vari
 - LinkedIn: [Mohab Mamdouh](https://www.linkedin.com/in/mohabmamdouh)
 
 ![](https://komarev.com/ghpvc/?username=mohabmamdouh&style=flat-square)
+[![wakatime](https://wakatime.com/badge/user/f121f7b8-8fe4-42bb-84b1-bb7c5b301503.svg)](https://wakatime.com/@f121f7b8-8fe4-42bb-84b1-bb7c5b301503)
