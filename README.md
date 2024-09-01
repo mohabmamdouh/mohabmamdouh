@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Welcome to my GitHub profile! I am a Full Stack Engineer with experience in various technologies. I specialize in PHP, Laravel, Livewire, Tailwind CSS, Bootstrap, Vue.js, React.js, Next.js, Nuxt.js, Redis.
+Welcome to my GitHub profile! I am a Full-Stack Engineer.
 
 ## Get in Touch
 
